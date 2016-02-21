@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Facepixel",
+  "name": "Facepixel",
+  "description": "Friends in common on the Hypixel network.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "HypixelDev/PublicAPI, codename_B",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
